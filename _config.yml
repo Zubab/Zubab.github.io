@@ -25,11 +25,15 @@ author:
   avatar           : "profilepic.png"
   name             : "Md Zubab Ibne Moid"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. candidate in Economics"
   location         : "Greensboro, USA"
   employer         : "University of North Carolina at Greensboro"
   uri              : # URL
   email            : "m_moid@uncg.edu" 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:m_moid@uncg.edu"
 
   # Academic websites
   academia         : # URL
