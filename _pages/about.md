@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Home"
+title: "Md Zubab Ibne Moid"
 permalink: /
 author_profile: true
 ---
