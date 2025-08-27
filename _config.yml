@@ -13,7 +13,7 @@ title                    : "Md Zubab Ibne Moid"
 title_separator          : "-"
 name                     : &name "Md Zubab Ibne Moid"
 description              : &description "Ph.D. Candidate, Economics, UNCG"
-url                      : "https://Zubab.github.io"
+url                      : "https://zubab.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zubab/Zubab.github.io"
 
