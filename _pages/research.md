@@ -4,12 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-<div class="btn-group" style="margin: .5rem 0 1rem;">
-  <button id="expand">Expand all</button>
-  <button id="collapse">Collapse all</button>
-</div>
-
 ## Publications
 
 ### AI and medical imaging technology: evolution, impacts, and economic insights  
