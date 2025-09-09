@@ -5,7 +5,29 @@ permalink: /research/
 author_profile: true
 ---
 
+## Publications
 
+### AI and medical imaging technology: evolution, impacts, and economic insights
+*With Emefa Surprize Deborah Buaka*
+*DOI:* (https://doi.org/10.1007/s10961-024-10100-x)
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+  <div markdown="1">
+This paper examines the transformative impact of Artificial Intelligence (AI) on medical imaging technology, tracing the evolution of medical imaging from the development of X-ray technology in the 19th century, and describing AI’s integration into medical imaging beginning in the second half of the 20th century. This paper explores AI’s role in early disease detection, enhanced diagnostics, and streamlined workflows. Legal considerations are also discussed, exemplified by proposed regulations such as the EU’s Artificial Intelligence Act and the U.S. Algorithmic Accountability Act.
+  </div>
+</details>
+
+### Enhancing the Knowledge Economy: a Cross-Country Study of Knowledge Creation
+*With Emefa Surprize Deborah Buaka & Albert N. Link*
+*DOI:* (https://doi.org/10.1007/s13132-023-01546-9)
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+  <div markdown="1">
+We identify quantitatively, using cross-country data from the Global Innovation Index, a path through which R&D (research and development) operates to affect economic growth and development. The path we consider is one that relates to enhancing the knowledge economy. Specifically, we contribute to the literature through the quantification of the antecedents and consequences of newly created knowledge: R&D → creation of new knowledge → economic growth and development. And, we show statistically that the R&D → creation of new knowledge relationship is enhanced when businesses collaborate with universities. Not only is this collaborative indirect relationship new to the knowledge creation literature, but also it is based on the estimation of a model specification that has not previously been considered.
+  </div>
+</details>
 
 ## Working Papers
 
@@ -88,7 +110,6 @@ An understanding of the diffusion of surgical robotic technology is a contributi
 
 ---
 
-*For publications, see my* [Google Scholar](https://scholar.google.com/citations?user=4VnVTm8AAAAJ).  
 *Last updated: {{ "now" | date: "%B %Y" }}*
 
 <style>
