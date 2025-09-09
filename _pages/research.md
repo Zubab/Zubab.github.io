@@ -17,6 +17,8 @@ This paper examines the transformative impact of Artificial Intelligence (AI) on
   </div>
 </details>
 
+---
+
 ### Enhancing the Knowledge Economy: a Cross-Country Study of Knowledge Creation  
 *With Emefa Surprize Deborah Buaka & Albert N. Link*  
 **DOI:** [10.1007/s13132-023-01546-9](https://doi.org/10.1007/s13132-023-01546-9)
@@ -27,6 +29,8 @@ This paper examines the transformative impact of Artificial Intelligence (AI) on
 We identify quantitatively, using cross-country data from the Global Innovation Index, a path through which R&D (research and development) operates to affect economic growth and development. The path we consider is one that relates to enhancing the knowledge economy. Specifically, we contribute to the literature through the quantification of the antecedents and consequences of newly created knowledge: R&D → creation of new knowledge → economic growth and development. And, we show statistically that the R&D → creation of new knowledge relationship is enhanced when businesses collaborate with universities. Not only is this collaborative indirect relationship new to the knowledge creation literature, but also it is based on the estimation of a model specification that has not previously been considered.
   </div>
 </details>
+
+---
 
 ## Working Papers
 
