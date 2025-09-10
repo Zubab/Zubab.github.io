@@ -127,7 +127,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : "PASTE_CODE_FROM_GOOGLE_SEARCH_CONSOLE"
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -145,9 +145,11 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person
+  name: "Md Zubab Ibne Moid"
+  links:
+    - https://scholar.google.com/citations?user=4VnVTm8AAAAJ
+    - https://www.linkedin.com/in/md-zubab-ibne-moid/
 
 
 # Analytics
