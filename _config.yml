@@ -79,6 +79,20 @@ author:
   youtube          : 
   zhihu            : 
 
+# Sidebar icon links (what actually renders the icons)
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:m_moid@uncg.edu"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=4VnVTm8AAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/md-zubab-ibne-moid/"
+
+
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
